@@ -12,5 +12,3 @@ print(response2.json())
 2
 
 3
-
-4
